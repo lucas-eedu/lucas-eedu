@@ -1,5 +1,5 @@
 ## Olá, seja bem-vindo! 
-- 🔭 Desenvolvedor Back-End PHP - Laravel
+- 🔭 Back-end Developer - PHP + Laravel
 - 🌱 Atualmente me aprofundando em JavaScript afim de dominar Node e framesworks de front como Angular e React.
 
 <div align="center">
