@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo! 
-- 🔭 Desenvolvedor Back-end PHP - Laravel
-- 🌱 Estudando NodeJS - NextJS e AdonisJS
+- 🔭 Back-end Developer & Product Manager
+- 🌱 Atualmente me aprofundando em JavaScript afim de dominar Node e framesworks de front como Angular e React.
 
 <div align="center">
     <a href="https://github.com/rafaballerini">
