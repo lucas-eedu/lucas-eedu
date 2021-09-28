@@ -1,7 +1,6 @@
-## Lucas Eduardo
+## Olá, seja bem-vindo! 
 - 🔭 Desenvolvedor Back-end PHP - Laravel
 - 🌱 Estudando NodeJS - NextJS e AdonisJS
-- 💬 E-mail: lucas01.dev@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
