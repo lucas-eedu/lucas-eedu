@@ -3,13 +3,6 @@ Apaixonado por tecnologia, empreendedorismo e investimentos. Tenho 21 anos e sou
 <br><br>
 Atualmente me aprofundando em JavaScript afim de dominar Node, Adonis e framesworks de front como Angular e React.
 
-<div align="center">
-    <a href="https://github.com/lucas-eedu">
-        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-eedu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-eedu&layout=compact&langs_count=7&theme=github_dark"/>
-    </a>
-</div>
-
 ## Tecnologias
 <div style="display: inline_block"><br>
     <img align="center" alt="lucas-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
@@ -35,4 +28,11 @@ Atualmente me aprofundando em JavaScript afim de dominar Node, Adonis e frameswo
 - <a href="https://www.linkedin.com/in/lucas-eedu/">Linkedin</a>
 - <a href="mailto:lucas01.dev@gmail.com">E-mail</a>
 - <a href="https://instagram.com/lucas_eedu">Instagram Pessoal</a>
+</div>
+
+<div align="center">
+    <a href="https://github.com/lucas-eedu">
+        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-eedu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-eedu&layout=compact&langs_count=7&theme=github_dark"/>
+    </a>
 </div>
