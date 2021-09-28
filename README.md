@@ -5,8 +5,8 @@ Atualmente me aprofundando em JavaScript afim de dominar Node, Adonis e frameswo
 
 <div align="center">
     <a href="https://github.com/lucas-eedu">
-        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-eedu&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-eedu&layout=compact&langs_count=7&theme=gotham"/>
+        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-eedu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+        <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-eedu&layout=compact&langs_count=7&theme=github_dark"/>
     </a>
 </div>
 
