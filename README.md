@@ -25,7 +25,7 @@ Atualmente me aprofundando em JavaScript afim de dominar Node, Adonis e frameswo
 </div>
 
 ##  Fale Comigo
-- <a href="https://www.linkedin.com/in/lucas-eedu/">Linkedin</a>
+- <a href="https://www.linkedin.com/in/lucas-eduardo/">Linkedin</a>
 - <a href="mailto:lucas01.dev@gmail.com">E-mail</a>
 - <a href="https://instagram.com/lucas_eedu">Instagram Pessoal</a>
 </div>
