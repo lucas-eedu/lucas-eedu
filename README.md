@@ -1,5 +1,5 @@
 ## Sobre Mim
-Apaixonado por tecnologia, empreendedorismo e investimentos. Tenho 21 anos e sou experiente com as tecnologias: PHP, HTML, CSS, JavaScript e MySQL no desenvolvimento de sistemas e websites e nos Frameworks como: Codeiginiter, Boostrap e Laravel que utilizo no dia-a-dia nos projetos.
+Apaixonado por tecnologia, empreendedorismo e investimentos. Tenho 21 anos e sou experiente com as tecnologias: PHP, HTML, CSS, JavaScript e MySQL no desenvolvimento de sistemas e websites e nos Frameworks como: Codeiginiter, Boostrap e Laravel que utilizo no dia a dia nos projetos.
 <br><br>
 Atualmente me aprofundando em JavaScript afim de dominar Node e framesworks de front como Angular e React.
 
