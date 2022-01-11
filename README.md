@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá! Me chamo Lucas Eduardo, tenho 21 anos e atuo com desenvolvimento web desde de 2017.
+Olá! Me chamo Lucas Eduardo, tenho 21 anos e atuo com desenvolvimento web desde 2017.
 
 Experiente com as tecnologias: PHP, Node, MySQL, JavaScript Vanila, HTML e CSS no desenvolvimento de sistemas e websites e nos frameworks como: Express, Laravel, CodeIgniter e Bootstrap que utilizo no dia a dia nos projetos.
 <br><br>
