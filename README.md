@@ -1,7 +1,7 @@
 ## Sobre Mim
 Olá! Me chamo Lucas Eduardo, tenho 21 anos, sou apaixonado por tecnologia, mercado financeiro e games. Comecei a programar por diversão aos 13 anos e desde 2017 atuo com desenvolvimento web.
 
-Experiente com as tecnologias: PHP, Node, MySQL, JavaScript, HTML, CSS e MySQL no desenvolvimento de sistemas e websites e nos frameworks como: Express, Laravel, CodeIgniter e Bootstrap, também tenho experiência com gerenciamento de servidores Linux e vivência com o ambiente AWS(EC2, S3, RDS, CodeCommit).
+Experiente com as tecnologias: PHP, Node, MySQL, JavaScript, HTML, CSS e MySQL no desenvolvimento de sistemas e websites e nos frameworks como: Express, Laravel, CodeIgniter e Bootstrap. Também tenho experiência com gerenciamento de servidores Linux e vivência com o ambiente AWS(EC2, S3, RDS, CodeCommit).
 <br><br>
 Atualmente me aprofundando em Node afim de dominar um framework mais robusto como Adonis ou Nest e me especializando em Vue e React.
 
