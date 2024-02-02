@@ -1,5 +1,5 @@
 ## Sobre Mim
-Olá! Me chamo Lucas Eduardo, tenho 24 anos, sou apaixonado por tecnologia, mercado financeiro e games. Comecei a programar por diversão aos 13 anos e desde 2017 atuo com desenvolvimento web.
+Olá! Me chamo Lucas Eduardo, tenho 24 anos, sou apaixonado por tecnologia, mercado financeiro e games. Comecei a programar por diversão aos 13 anos e desde 2017 atuo com desenvolvimento.
 
 Experiente com as tecnologias: PHP, Node, JavaScript, HTML, CSS, MySQL, MongoDB, Redis e Docker no desenvolvimento de sistemas e websites e nos frameworks como: Express, AdonisJS, Laravel, Symfony e CodeIgniter. 
 <br>Também tenho experiência com gerenciamento de servidores Linux e vivência com o ambiente AWS e Oracle.
