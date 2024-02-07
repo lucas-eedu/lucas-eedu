@@ -10,7 +10,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em NestJS e React.
 ## Tecnologias
 <div style="display: inline_block"><br>
     <img align="center" alt="lucas-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center" alt="lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg">
     <img align="center" alt="lucas-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
     <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
