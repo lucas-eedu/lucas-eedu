@@ -1,36 +1,26 @@
-## Sobre Mim
-Sou um entusiasta da tecnologia, apaixonado pelo mercado financeiro e aficionado por games. Desde os 13 anos, quando comecei a programar por diversão, tenho trilhado um caminho no desenvolvimento de software, buscando constantemente aprimorar minhas habilidades e expandir meu conhecimento.
+##  About
+Professional with over 6 years of experience as a software engineer, I have developed a diverse skill set across various technologies and industries. My journey in technology began at the age of 13, evolving from a hobby into a full-fledged career and passion.
 
-Com uma sólida experiência de mais de 5 anos na área, domino uma ampla gama de tecnologias, incluindo NodeJS, Express, TypeScript, PHP, Laravel, Symyfony, MySQL, Redis, MongoDB, Docker, CI/CD.
+Experience & Expertise:
 
-Além disso, possuo experiência no gerenciamento de servidores Linux e familiaridade com o ambiente AWS e Oracle, garantindo a confiabilidade e a escalabilidade das aplicações em que trabalho.
+- Current Focus: Working in a fully serverless environment with AWS services including S3, SQS, EC2, Lambda, Cloudwatch, DynamoDB and Elasticsearch
+- Languages: JavaScript (NodeJS), TypeScript, PHP
+- FrameWorks: Express, AdonisJS, CodeIgniter, Laravel and Symfony. 
+- Databases: MySQL, PostgreSQL, Redis, MongoDB and DynamoDB.
+- Development Areas: Expertise in building scalable and modular applications, optimizing performance, and managing cloud infrastructure.
 
-Atualmente, estou focado em aprimorar minhas habilidades em NestJS e React.
+Key Interests:
 
-## Tecnologias
-<div style="display: inline_block"><br>
-    <img align="center" alt="lucas-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-    <img align="center" alt="lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg">
-    <img align="center" alt="lucas-Ci" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
-    <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="lucas-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg">
-    <img align="center" alt="lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg">
-</div>
+- Serverless Architectures
+- Cloud Computing & AWS Services
+- Scalable Systems Design
+- Performance Optimization
 
-##  Fale Comigo
-- <a href="https://www.linkedin.com/in/lucas-eduardo/">Linkedin</a>
-- <a href="mailto:lucas01.dev@gmail.com">E-mail</a>
-- <a href="https://instagram.com/lucas_eedu">Instagram Pessoal</a>
-</div>
+Linkedin: https://www.linkedin.com/in/lucas-eduardo/
 
+E-mail: lucas01.dev@gmail.com
+
+##  Stats
 <div align="center">
     <a href="https://github.com/lucas-eedu">
         <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-eedu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
