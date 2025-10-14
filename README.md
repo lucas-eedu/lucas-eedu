@@ -1,24 +1,29 @@
-##  About
-Professional with over 6 years of experience as a software engineer, I have developed a diverse skill set across various technologies and industries. My journey in technology began at the age of 13, evolving from a hobby into a full-fledged career and passion.
+## 👋 About
 
-Experience & Expertise:
+With over 8 years of experience as a Software Engineer, I’ve developed scalable, secure, and high-performance systems across multiple industries.  
+My journey in technology began at 13, turning a personal passion into a professional mission: creating impactful digital solutions through clean architecture and automation.
 
-- Current Focus: Working in a fully serverless environment with AWS services including S3, SQS, EC2, Lambda, Cloudwatch, DynamoDB and Elasticsearch
-- Languages: JavaScript (NodeJS), TypeScript, PHP
-- FrameWorks: Express, AdonisJS, CodeIgniter, Laravel and Symfony. 
-- Databases: MySQL, PostgreSQL, Redis, MongoDB and DynamoDB.
-- Development Areas: Expertise in building scalable and modular applications, optimizing performance, and managing cloud infrastructure.
+### 💻 Experience & Expertise
 
-Key Interests:
+- **Current Focus:** Working in a fully serverless environment using AWS services such as **Lambda, API Gateway, DynamoDB (single-table design), S3, SQS, CloudWatch, and EC2**.  
+- **Languages:** Node.js, TypeScript, Go, PHP  
+- **Frameworks:** Express, AdonisJS, Laravel, Symfony, NestJS  
+- **Front-End:** React, Angular, Next.js, Styled-Components, Tailwind CSS  
+- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, DynamoDB  
+- **CI/CD & DevOps:** CircleCI, Serverless Framework, environment automation, infrastructure-as-code  
+- **Quality & Documentation:** Jest (unit/integration tests), Zod validation, Swagger (OpenAPI), and strict TypeScript typing  
 
-- Serverless Architectures
-- Cloud Computing & AWS Services
-- Scalable Systems Design
-- Performance Optimization
+### 🎯 Core Interests
 
-Linkedin: https://www.linkedin.com/in/lucas-eduardo/
+- Serverless Architectures & Cloud Computing (AWS)  
+- Scalable Systems Design & Performance Optimization  
+- Automation, CI/CD & DevOps Best Practices  
+- Software Quality, Testing & Maintainability  
 
-E-mail: lucas01.dev@gmail.com
+📌 **GitHub:** [github.com/lucas-eedu](https://github.com/lucas-eedu)  
+💼 **LinkedIn:** [linkedin.com/in/lucas-eduardo](https://www.linkedin.com/in/lucas-eduardo/)  
+✉️ **E-mail:** [lucas01.dev@gmail.com](mailto:lucas01.dev@gmail.com)
+
 
 ##  Stats
 <div align="center">
