@@ -1,24 +1,23 @@
 ## 👋 About
 
-With over 8 years of experience as a Software Engineer, I’ve developed scalable, secure, and high-performance systems across multiple industries.  
-My journey in technology began at 13, turning a personal passion into a professional mission: creating impactful digital solutions through clean architecture and automation.
+With over 9 years of experience as a Software Engineer, I’ve developed scalable, secure, and high-performance systems across multiple industries. My journey in technology began at 15, turning a personal passion into a professional mission: creating impactful digital solutions through clean architecture and automation.
 
-### 💻 Experience & Expertise
+Currently, I work in a fully serverless environment focused on AWS, leveraging services like Lambda, API Gateway, DynamoDB, S3, SQS, CloudWatch, and EC2. I specialize in designing and maintaining multi-tenant architectures that process large-scale data with resilience and efficiency.
 
-- **Current Focus:** Working in a fully serverless environment using AWS services such as **Lambda, API Gateway, DynamoDB (single-table design), S3, SQS, CloudWatch, and EC2**.  
-- **Languages:** Node.js, TypeScript, Go, PHP  
-- **Frameworks:** Express, AdonisJS, Laravel, Symfony, NestJS  
-- **Front-End:** React, Angular, Next.js, Styled-Components, Tailwind CSS  
-- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, DynamoDB  
-- **CI/CD & DevOps:** CircleCI, Serverless Framework, environment automation, infrastructure-as-code  
-- **Quality & Documentation:** Jest (unit/integration tests), Zod validation, Swagger (OpenAPI), and strict TypeScript typing  
+### 💻 I have a solid background in:
+
+- **Back-End:** Node, TypeScript, GO, PHP | Frameworks: Express, AdonisJS, Laravel, Symfony, NestJS  
+- **Front-End:** React, Angular, Next, Styled-Components, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL, Redis, MongoDB, DynamoDB
+- **CI/CD & DevOps:** CircleCI, Serverless Framework, Docker, Terraform/OpenmTofu, environment automation, infrastructure-as-code
+- **Quality & Documentation:** Jest (unit/integration tests), Zod validation, Swagger (OpenAPI), and strict TypeScript typing 
 
 ### 🎯 Core Interests
 
 - Serverless Architectures & Cloud Computing (AWS)  
 - Scalable Systems Design & Performance Optimization  
 - Automation, CI/CD & DevOps Best Practices  
-- Software Quality, Testing & Maintainability  
+- Software Quality, Testing & Maintainability
 
 📌 **GitHub:** [github.com/lucas-eedu](https://github.com/lucas-eedu)  
 💼 **LinkedIn:** [linkedin.com/in/lucas-eduardo](https://www.linkedin.com/in/lucas-eduardo/)  
